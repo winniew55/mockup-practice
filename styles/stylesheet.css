@@ -19,6 +19,9 @@ header {
 a{
   color: red;
 }
+a:hover{
+  color: yellow
+}
 
 nav {
   background-color: darkgrey;
@@ -76,4 +79,4 @@ footer {
 .copyright{
   text-align: center;
   margin:0;
-} 
+}
