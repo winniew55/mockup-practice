@@ -1,0 +1,79 @@
+html { 
+  font-size: 20px; 
+  height: 100%
+  width: 100%;
+}
+
+header {
+  font-size: 1rem;
+  font-family: Georgia, serif;
+  text-align: left;  
+  color: white;
+  background-color: black;
+}
+
+.link{
+  text-align: right
+}
+
+a{
+  color: red;
+}
+
+nav {
+  background-color: darkgrey;
+  text-align: center; 
+  padding: 0.5rem;
+}
+
+nav a{
+  color: purple;
+  padding-left: 2rem;
+  padding-right; 2rem;
+}
+
+article{
+  background-color: white;
+  font-family: Georgia, serif;
+  margin: 2rem;
+}
+
+.testimonials{
+  font-style: italic;
+}
+
+body{
+  background-color: white;
+}
+
+aside{
+  padding: 1rem;
+  border-style: groove;
+  text-align: center;
+  font-family: Georgia, serif;
+  height: 50%;
+  width:70%;
+  margin-bottom: 1rem;
+  margin-top:1rem;
+  margin-right: 1rem;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
+
+footer {
+  text-align: left;
+  color:white;
+  background-color: black;
+}
+
+.side{
+  display: inline-flex;
+}
+
+.copyright{
+  text-align: center;
+  margin:0;
+}
